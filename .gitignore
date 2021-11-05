@@ -32,3 +32,6 @@
 *.app
 
 *.pdf
+Debug/
+x64/
+.vs/
